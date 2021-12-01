@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="assets/images/screenshot/yosemite_screenshot" height="500em" /> <img src="assest/images/screenshot/golden_screenshot.jpg" height="500em" />
-<img src="assets/images/screenshot/sedona_screenshot" height="500em" /> <img src="assets/images/screenshot/savannah_screenshot" height="500em" />
+<img src="assest/images/screenshot/yosemite_screenshot" height="500em" /> <img src="assest/images/screenshot/golden_screenshot.jpg" height="500em" />
+<img src="assest/images/screenshot/sedona_screenshot" height="500em" /> <img src="assest/images/screenshot/savannah_screenshot" height="500em" />
